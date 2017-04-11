@@ -2,7 +2,7 @@ package api
 
 import (
 	"bytes"
-	"context"
+	"golang.org/x/net/context"
 	"crypto/tls"
 	"crypto/x509"
 	"encoding/json"
